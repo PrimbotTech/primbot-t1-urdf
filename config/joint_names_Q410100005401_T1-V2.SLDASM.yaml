@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'RR_HIP_ROLL_Joint', 'RR_HIP_PITCH_Joint', 'RR_KNEE_Joint', 'RR_FOOT_Joint', 'RL_HIP_ROLL_Joint', 'RL_HIP_PITCH_Joint', 'RL_KNEE_Joint', 'RL_FOOT_Joint', 'FR_HIP_ROLL_Joint', 'FR_HIP_PITCH_Joint', 'FR_KNEE_Joint', 'FL_HIP_ROLL_Joint', 'FL_HIP_PITCH_Joint', 'FL_KNEE_Joint', ]
